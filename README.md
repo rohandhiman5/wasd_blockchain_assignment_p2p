@@ -12,7 +12,7 @@ This project was made by:
 |--------------|---------|
 | Rohan       | 230001069     |
 | Mani Mathur  | 230001050    |
-| Siddarth singh   | 230001068 |
+| Siddarth singh   | 230002068 |
 
 ## Table of Contents
 
